@@ -32,3 +32,28 @@ There are lots of ways to get involved:
   git commit -m "Add new happy animation when 5+ nodes are found"
   ```
 7. Push to your fork and open a Pull Request.
+
+## 📋 Contribution Guidelines
+
+- Keep PRs focused on one clear change at a time.
+- Use descriptive commit messages (so history is easy to follow).
+- If you’re adding a new behaviour, try to document it in the README or comments.
+- For major features, open a discussion or feature request issue first to align with others.
+
+## 🧪 Testing
+
+Whenever possible:
+
+- Test changes on actual Meshtastic-compatible hardware (HELTEC V3, M5Stack, ThinkNode, etc).
+- Include screenshots, logs, or animations showing how the feature looks/works.
+- If it’s only simulation code (Python/Node-RED), try to provide sample inputs/outputs.
+
+## 📣 Community & Support
+
+- Open Issues for bugs or feature requests.
+- Use Discussions to share ideas, artwork, and enclosure designs.
+- Join the Meshtastic community to connect with other LoRa tinkerers.
+
+## 📜 License
+
+By contributing, you agree that your work will be released under the MIT License unless explicitly stated otherwise.
